@@ -1,6 +1,6 @@
 server files for deepkinzero.
 
-go to https://github.com/tastanlab/DeepKinZero get the main code
+go to https://github.com/tastanlab/DeepKinZero get the main code. do required steps.
 
 copy this repos files to main repos files(replace)
 
